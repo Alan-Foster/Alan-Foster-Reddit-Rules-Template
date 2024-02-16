@@ -3,6 +3,7 @@ A template that SFW subreddits can use to establish high quality, comprehensive 
 
 To view the rules list, click here: 
 https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Rules-List
+
 You can also view the NSFW rules version here:
 https://github.com/Alan-Foster/NSFW-Reddit-Rules-Template/tree/main
 
