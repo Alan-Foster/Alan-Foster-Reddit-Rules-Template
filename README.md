@@ -4,7 +4,7 @@ A template that SFW subreddits can use to establish high quality, comprehensive 
 To view the rules list, click here: 
 https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Rules-List
 
-You can also view the NSFW rules version here:
+You can also see the NSFW Rules List Here:
 https://github.com/Alan-Foster/NSFW-Reddit-Rules-Template/tree/main
 
 ## Why was this created?
