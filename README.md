@@ -5,8 +5,8 @@ A template that SFW subreddits can use to establish high quality, comprehensive 
 ### To view the Rules List, click here: 
 ### https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Rules-List
 ---
-#### To view the Removal Reasons, click here:
-#### https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Removal-Reasons
+### To view the Removal Reasons, click here:
+### https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Removal-Reasons
 ---
 
 You can also see the NSFW Rules List Here:
