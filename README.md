@@ -17,4 +17,4 @@ Click the link above to view all of the template rules available. Copy and Paste
 
 Then, navigate to https://www.reddit.com/r/SUBREDDIT/about/removal to create Removal Reasons used internally by the mod team.
 
-Rule violation responses are listed and can be customized. Most rules have 3 warnings before a perm ban.
+Rule violation responses are listed and can be customized. Most rules have 2 warnings before a perm ban.
