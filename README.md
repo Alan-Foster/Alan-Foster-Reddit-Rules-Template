@@ -4,15 +4,13 @@ A template that SFW subreddits can use to establish high quality, comprehensive 
 ---
 ### To view the Rules List, click here: 
 ### https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Rules-List
-
-You can also see the NSFW Rules List Here:
-https://github.com/Alan-Foster/NSFW-Reddit-Rules-Template/tree/main
-
 ---
 ### To view the Removal Reasons, click here:
 ### https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Removal-Reasons
 ---
 
+You can also see the NSFW Rules List Here:
+https://github.com/Alan-Foster/NSFW-Reddit-Rules-Template/tree/main
 
 ## Why was this created?
 Many SFW communities have rules that fail to encompass all rule violations, or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced.
