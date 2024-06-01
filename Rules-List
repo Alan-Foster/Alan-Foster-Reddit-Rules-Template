@@ -1,5 +1,5 @@
 SFW Public Rules Template
-Version 2024-05-30-1
+Version 2024-06-01-1
 
 Replace the content found inside ///// sectionals \\\\\ to fit the rules of your subreddit.
 Rule violation responses are listed and can be customized. Most rules have 4 warnings before a perm ban.
@@ -56,7 +56,7 @@ No Personal Information
 ///// OR \\\\\
 
 - Posting the identities of individuals is ///// ALLOWED / REQUIRED \\\\\ in this community. 
-- Do not share addresses, phone numbers, or real-world locations unless they have publicly announced that info themselves (such as attending a public event, etc).
+- Do not share addresses, phone numbers, or real-world locations unless they have publicly announced that info (such as attending a public event, etc).
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
@@ -67,9 +67,9 @@ No Personal Information
 
 
 5
-Advertise Up To 2 Posts Daily ///// OR \\\\\ No Advertising Products, Services or Fundraisers
-- The post creator can share 1 link in the comments of their post, a maximum of 2 per day. 
-- No advertising directly in post titles or images. 
+No Advertising Products, Services or Fundraisers
+
+- No advertising at all in post titles, comments, or images. 
 - Do not request donations or link to payment processors. 
 - Do not offer to buy or sell any items or services.
 - Punishment for breaking this rule:
@@ -77,8 +77,13 @@ Advertise Up To 2 Posts Daily ///// OR \\\\\ No Advertising Products, Services o
   2. One Month Ban
   3. Permanent Ban
 - Serious rule violations may result in an immediate ban.
+
 ///// OR \\\\\
-- No advertising at all in post titles, comments, or images. 
+
+Advertise Up To 2 Posts Daily
+
+- The post creator can share 1 link in the comments of their own post, a maximum of 2 per day. 
+- No advertising directly in post titles or images. 
 - Do not request donations or link to payment processors. 
 - Do not offer to buy or sell any items or services.
 - Punishment for breaking this rule:
@@ -111,7 +116,7 @@ No Encouraging Rule Violations, Dangerous or Illegal Activities
   1. Break Reddit rules (subreddit or site-wide)
   2. Break real-world rules (real-world laws, including other countries) 
   3. Jeopardize their safety or the safety of others. 
-- Do not create posts to discuss moderator actions against a specific user. Discussions of the community rules is allowed.
+- Do not create posts to discuss moderator actions against a specific user. Discussions of community rules is allowed.
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
@@ -154,5 +159,7 @@ Copyright and Takedown Policy
 - To request a takedown under this rule, contact the moderators using ModMail.
 - Punishment for breaking this rule:
   1. Permanent Ban
+
+
 
 
