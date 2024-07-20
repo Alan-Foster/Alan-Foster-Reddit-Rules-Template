@@ -1,5 +1,5 @@
 SFW Public Rules Template
-Version 2024-06-08-1
+Version 2024-07-20-1
 
 Replace the content inside ///// sectionals \\\\\ to fit the rules of your subreddit.
 Rule violation punishments are listed and can be customized. Most rules have 2 warnings before a perm ban.
@@ -16,6 +16,7 @@ Be Cool, Calm, and Civil
 - Do not advocate for harassment, harm, or hate.
 - Do not discriminate against anyone.
 - Report rule violations as you see them. Do not respond in the comments.
+- Do not ask for karma upvotes - vote manipulation violates Reddit site-wide rules.
 - Punishment for breaking this rule:
   1. Warning
   2. One Month Ban
@@ -44,8 +45,7 @@ Post Honest and Accurate Information
 - Ensure all info is accurate to the best of your knowledge.
 - Do not impersonate other users, public figures, or moderators.
 - Do not falsely claim to have domain expertise.
-- Do not spread spread false info, rumors, or unverified claims.
-- Do not link to tabloids or fake news content.
+- Do not spread false info, fake news, rumors, or unverified claims.
 - Posts may be removed if proven to be false or misleading.
 - Punishment for breaking this rule:
   1. Warning
@@ -56,7 +56,7 @@ Post Honest and Accurate Information
 
 
 4
-Post ///// Content Allowed \\\\\
+Only Post ///// Content Allowed \\\\\
 - Keep content relevant to ///// OC only, theme, format (video/gif), etc \\\\\. 
 - Content that is NSFW must be marked with a spoiler.
 - Low-value / off-topic content may be removed at any moderator's discretion.
@@ -69,7 +69,7 @@ Post ///// Content Allowed \\\\\
 
 
 5
-No Spam or Off-Topic Content
+Do Not Post ///// Banned Content \\\\\
 - Do not post ///// Banned Content \\\\\
 - Low-value / off-topic content may be removed at any moderator's discretion.
 - Punishment for breaking this rule:
@@ -81,11 +81,11 @@ No Spam or Off-Topic Content
 
 
 6
-No Disruptive or Disturbing Content
+No Political, Religious, Disruptive, or Disturbing Content
 - Do not post triggering or distressing content.
 - Warn users if content may be considered disturbing.
+- Avoid topics that users may find sensitive or cause arguments.
 - Do not post content that may trigger epilepsy or trauma responses.
-- (Graphic images, detailed descriptions of violence, other sensitive material)
 - Violent, pornographic, or illegal content is strictly prohibited.
 - Punishment for breaking this rule:
   1. Warning
@@ -96,21 +96,17 @@ No Disruptive or Disturbing Content
 
 
 7
-No Political, Religious, or Unrelated Sensitive Topics
-- These topics are allowed if they are relevant to the subreddit.
-- Avoid topics that users may find sensitive or cause arguments.
-- This includes politics, religion, or other current events.
-- Moderators may lock or remove content to prevent arguments or off-topic discussions.
-
-
-
-8
 No Personal Information or Professional Advice
 - Respect the privacy of all users.
 - Do not post or solicit any personal information.
 - This includes names, addresses, phone numbers, contact information, real-world locations, and social media profiles.
+- Do not post professional advice as a lawyer, doctor, or accountant.
+- Instead, link to resources or encourage users to seek professional help.
 - Punishment for breaking this rule:
-  1. Permanent Ban
+  1. Warning
+  2. One Month Ban
+  3. Permanent Ban
+- Serious rule violations may result in an immediate ban.
 
 ///// OR \\\\\
 
@@ -124,19 +120,8 @@ No Personal Information or Professional Advice
 
 
 
-9
-No Professional Advice
-- Do not post professional advice as a lawyer, doctor, or accountant.
-- Instead, link to resources or encourage users to seek professional help.
-- Punishment for breaking this rule:
-  1. Warning
-  2. One Month Ban
-  3. Permanent Ban
-- Serious rule violations may result in an immediate ban.
 
-
-
-10
+8
 No Shortened or Obfuscated Links
 - Markdown-formatted links are allowed, but clear links are better.
 - If possible, remove extra modifying #tags or referral data.
@@ -151,8 +136,8 @@ No Shortened or Obfuscated Links
 
 
 
-11
-No Advertising Products, Services or Fundraisers
+9
+No Advertising Products, Services, Polls / Surveys or Fundraisers
 - Your account history should not be more than 25% advertising.
 - No advertising at all in post titles, comments, or images. 
 - Do not request donations or link to payment processors. 
@@ -180,7 +165,7 @@ Advertise Up To 2 Posts Daily
 
 
 
-12
+10
 No Encouraging Rule Violations, Dangerous or Illegal Activities
 - Do not encourage other users to:
   1. Break Reddit rules (subreddit or site-wide).
@@ -194,7 +179,7 @@ No Encouraging Rule Violations, Dangerous or Illegal Activities
 
 
 
-13
+11
 Treat Moderators and Volunteers with Respect
 - Do not speak poorly of other moderators, administrators, or subreddits.
 - Do not discuss moderator actions taken against a specific user. 
@@ -208,20 +193,7 @@ Treat Moderators and Volunteers with Respect
 
 
 
-14
-No Polls or Community Surveys
-- Community members may only create community polls or surveys with moderator approval. 
-- Include a null option to "Show Results" for those who only want to see the results. 
-- Data collected may not be used for targeted advertising.
-- Punishment for breaking this rule:
-  1. Warning
-  2. One Month Ban
-  3. Permanent Ban
-- Serious rule violations may result in an immediate ban.
-
-
-
-15
+12
 Follow Specific Event or Activity Guidelines
 - Additional rules may apply during special events, contests, or activities.
 - Follow all rules and terms of service for other platforms and tools used during events.
@@ -233,7 +205,7 @@ Follow Specific Event or Activity Guidelines
 
 
 
-16
+13
 Copyright and Takedown Policy
 - Do not falsely claim that content is yours if it was created by someone else.
 - Do not post images, videos, or content without the consent of all involved. 
