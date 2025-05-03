@@ -1,12 +1,12 @@
 # Alan-Foster-Reddit-Rules-Template
-A template that SFW and NSFW subreddits can use to establish high-quality, comprehensive rules for their communities. Designed for communities with discussion-based rulesets or content-driven rulesets. Updated and maintained to cover as many edge cases as possible. Many SFW communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced.
+A template that SFW and NSFW subreddits can use to establish high-quality, comprehensive rules for their communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with discussion-based rulesets or content-driven rulesets, updated and maintained to cover as many edge cases as possible. 
 
 > [!IMPORTANT]
 > ## SFW Communities Quick Links
 > |                     | Discussion‑Based | Content‑Based |
 > | ------------------- | ---------------- | ------------- |
-> | **Rules List**      | [SFW Discussion Rules List](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Discussion-Based-Rules-List)           | [SFW Content Rules List](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Rules-List)           |
-> | **Removal Reasons** | [SFW Discussion Removal Reasons](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Discussion-Based-Removal-Reasons) | [SFW Content Removal Reasons](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Removal-Reasons) |
+> | **Rules List**      | [SFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Rules-List)           | [SFW Discussion Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Discussion-Rule-List)            |
+> | **Removal Reasons** | [SFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Removal-Reasons) | [SFW Discussion Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Discussion-Removal-Reasons) |
 
 Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links)
 
@@ -35,9 +35,8 @@ The majority of subreddits are content-based while still including text-based di
 > ## NSFW 18+ Communities Quick Links
 > |                     | Discussion‑Based | Content‑Based |
 > | ------------------- | ---------------- | ------------- |
-> | **Rules List**      | [NSFW Discussion Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Based-Rules-List)           | [NSFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Based-Rules-List)           |
-> | **Removal Reasons** | [NSFW Discussion Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Based-Removal-Reasons) | [NSFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Based-Removal-Reasons) |
-
+> | **Rules List**      | [NSFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Rules-List)           | [NSFW Discussion Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Discussion-Rules-List)           |
+> | **Removal Reasons** | [NSFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Removal-Reasons) | [NSFW Discussion Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Discussion-Removal-Reasons) |
 
 
 ## How do I use this template?
