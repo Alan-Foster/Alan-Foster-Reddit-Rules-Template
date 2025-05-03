@@ -1,5 +1,5 @@
 # Alan-Foster-Reddit-Rules-Template
-A template that SFW and NSFW subreddits can use to establish high-quality, comprehensive rules for their communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with discussion-based rulesets or content-driven rulesets, updated and maintained to cover as many edge cases as possible. 
+A template of [SFW Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#sfw-communities-quick-links) and [NSFW Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links) to establish high-quality, comprehensive guidelines for your communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with discussion-based rulesets or content-driven rulesets, updated and maintained to cover as many edge cases as possible. 
 
 > [!IMPORTANT]
 > ## SFW Communities Quick Links
