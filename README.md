@@ -3,7 +3,7 @@ A template that SFW and NSFW subreddits can use to establish high-quality, compr
 
 > [!IMPORTANT]
 > ## SFW Communities Quick Links
-> |                     | Discussion‑Based | Content‑Based |
+> |                     | Content‑Based | Discussion‑Based |
 > | ------------------- | ---------------- | ------------- |
 > | **Rules List**      | [SFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Rules-List)           | [SFW Discussion Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Discussion-Rule-List)            |
 > | **Removal Reasons** | [SFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Removal-Reasons) | [SFW Discussion Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Discussion-Removal-Reasons) |
@@ -33,7 +33,7 @@ The majority of subreddits are content-based while still including text-based di
 
 > [!CAUTION]
 > ## NSFW 18+ Communities Quick Links
-> |                     | Discussion‑Based | Content‑Based |
+> |                     | Content‑Based | Discussion‑Based |
 > | ------------------- | ---------------- | ------------- |
 > | **Rules List**      | [NSFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Rules-List)           | [NSFW Discussion Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Discussion-Rules-List)           |
 > | **Removal Reasons** | [NSFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Removal-Reasons) | [NSFW Discussion Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Discussion-Removal-Reasons) |
