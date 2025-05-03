@@ -1,10 +1,11 @@
 # SFW-Reddit-Rules-Template
 A template that SFW subreddits can use to establish high-quality, comprehensive rules for their community. Designed for both communities with discussion-based rulesets or content-driven rulesets. Updated and maintained to cover as many edge cases as possible. 
 
-|                     | Discussion‑Based | Content‑Based |
-| ------------------- | ---------------- | ------------- |
-| **Rules List**      | [Discussion‑Based Rules List](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Discussion-Based-Rules-List)           | [Content‑Based Rules List](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Rules-List)           |
-| **Removal Reasons** | [Discussion‑Based Removal Reasons](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Discussion-Based-Removal-Reasons) | [Content‑Based Removal Reasons](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Removal-Reasons) |
+|                     | Discussion‑Based | Content‑Based  | NSFW‑Based |
+| ------------------- | ---------------- | -------------- | ---------- |
+| **Rules List**      | [Discussion‑Based Rules List](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Discussion-Based-Rules-List)           | [Content‑Based Rules List](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Rules-List)           | [NSFW‑Based Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Based-Rules-List)           |
+| **Removal Reasons** | [Discussion‑Based Removal Reasons](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Discussion-Based-Removal-Reasons) | [Content‑Based Removal Reasons](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Removal-Reasons) | [NSFW‑Based Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Based-Removal-Reasons) |
+
 
 
 You can also see the NSFW Rules List Here:
