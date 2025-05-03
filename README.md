@@ -8,7 +8,7 @@ A template that SFW and NSFW subreddits can use to establish high-quality, compr
 > | **Rules List**      | [SFW Discussion Rules List](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Discussion-Based-Rules-List)           | [SFW Content Rules List](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Rules-List)           |
 > | **Removal Reasons** | [SFW Discussion Removal Reasons](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Discussion-Based-Removal-Reasons) | [SFW Content Removal Reasons](https://github.com/Alan-Foster/SFW-Reddit-Rules-Template/blob/main/Removal-Reasons) |
 
-Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/edit/main/README.md#nsfw-communities-quick-links)
+Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links)
 
 ## Should I use Content-Based or Discussion-Based Rules and Removal Reasons?
 Communities on Reddit are usually designed around either promoting discussions between members or sharing content such as links, images, videos, etc.
