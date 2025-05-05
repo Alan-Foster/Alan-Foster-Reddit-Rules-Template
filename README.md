@@ -11,22 +11,24 @@ A template of [SFW Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rule
 Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links)
 
 ## Should I use Content-Based or Discussion-Based Rules and Removal Reasons?
-Communities on Reddit are usually designed around either promoting discussions between members or sharing content such as links, images, videos, etc.
+Communities on Reddit are usually designed to promote discussions between members or share content such as links, images, videos, etc.
 
 > [!TIP]
 > **Consider using the Content-based Templates if:**
 - Your subreddit's most popular content is images, links, or videos
+- Reposts are common or content is frequently stolen, especially from the 'All Time Top' posts.
 - Your most common rule violations are not in text-based submission posts
-- Reposts are common, especially from the All Time Top posts.
+
 
 
 > [!TIP]
 > **Consider using the Discussion-based Templates if:**
-- Your subreddit is text-based only with no images or links
-- Your most common rule violation is namecalling, arguments and disagreements between users
-- Resposts are uncommon and content is usually original
+- Your subreddit is text-based only, with no images or links
+- Reposts are uncommon because the content is usually original
+- Your most common rule violations are name-calling, arguments, and disagreements between users
 
-If you still aren't sure which ruleset to use, sort your subreddit feed by Top Posts over 7 Days and see what content type is most popular.
+
+If you still need help deciding which ruleset to use, sort your subreddit feed by Top Posts over 7 Days and see what content type is most popular.
 The majority of subreddits are content-based while still including text-based discussions.
 
 - - -
