@@ -1,5 +1,5 @@
 # Alan-Foster-Reddit-Rules-Template
-A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#sfw-communities-quick-links) and [NSFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links) to establish high-quality, comprehensive guidelines for your communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with content-based or safe space structures, updated and maintained to cover as many edge cases as possible. 
+A template of [SFW Community Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#sfw-communities-quick-links) and [NSFW Community Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links) to establish high-quality, comprehensive guidelines for your communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with content-based or safe space structures, updated and maintained to cover as many edge cases as possible. 
 
 > [!IMPORTANT]
 > ## SFW Communities Quick Links
@@ -18,7 +18,7 @@ A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Red
 
 
 > [!TIP]
-> **Consider using the Content-based Templates if:**
+> **Consider using the Content Templates if:**
 - Your subreddit's purpose is for sharing content or discussing a topic
 - Your members are the general public who share an interest or passion
 - Your rules manage the post feed and keep content relevant
