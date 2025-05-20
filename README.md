@@ -9,8 +9,8 @@ A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Red
 > | **Removal Reasons** | [SFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Removal-Reasons) | [Safe Space Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Removal-Reasons) |
 > | **Ban Reasons**     | [SFW Content Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Ban-Reasons) | [Safe Space Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Ban-Reasons) |
 
-
-Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links)
+> [!CAUTION]
+> Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links)
 
 
 
