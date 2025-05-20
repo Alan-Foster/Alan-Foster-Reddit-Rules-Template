@@ -1,5 +1,5 @@
 # Alan-Foster-Reddit-Rules-Template
-A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#sfw-communities-quick-links), SAFE SPACE RULES and [NSFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links) to establish high-quality, comprehensive guidelines for your communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with discussion-based rulesets or content-driven rulesets, updated and maintained to cover as many edge cases as possible. 
+A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#sfw-communities-quick-links) and [NSFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links) to establish high-quality, comprehensive guidelines for your communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with content-based or safe space structures, updated and maintained to cover as many edge cases as possible. 
 
 > [!IMPORTANT]
 > ## SFW Communities Quick Links
@@ -16,24 +16,24 @@ A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Red
 
 ## Should I use SFW Content or Safe Space?
 Communities on Reddit are usually designed to promote discussions between members or share content such as links, images, videos, etc.
+Safe Spaces are designed to protect their users rather than to promote or share content.
 
 > [!TIP]
 > **Consider using the Content-based Templates if:**
-- Your subreddit's most popular content is images, links, or videos
-- Reposts are common or content is frequently stolen, especially from the 'All Time Top' posts.
-- Your most common rule violations are not in text-based submission posts
-
+- Your subreddit's purpose is for general content or discussion around a topic
+- Your community members are the general public with an interest or passion
+- The purpose of the rules is to manage the post feed and keep content relevant
+- You have enabled Reddit Discovery and Achievements for your community
 
 
 > [!TIP]
 > **Consider using the Safe Space Templates if:**
-- Your subreddit is text-based only, with no images or links
-- Reposts are uncommon because the content is usually original
-- Your most common rule violations are name-calling, arguments, and disagreements between users
+- The subreddit's purpose is to offer emotional or mental health support
+- Community members have experienced a life-changing event that has left them vulnerable
+- The purpose of the rules is to protect vulnerable users, not to promote content
+- You have disabled Reddit Discovery and Achievements for your community, because it would be in bad taste
 
 
-If you still need help deciding which ruleset to use, sort your subreddit feed by Top Posts over 7 Days and see what content type is most popular.
-The majority of subreddits are content-based while still including text-based discussions.
 
 - - -
 
