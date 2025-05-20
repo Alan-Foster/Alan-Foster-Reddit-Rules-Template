@@ -15,8 +15,7 @@ A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Red
 
 
 ## Should I use SFW Content or Safe Space?
-Communities on Reddit are usually designed to promote discussions between members or share content such as links, images, videos, etc.
-Safe Spaces are designed to protect their users rather than to promote or share content.
+
 
 > [!TIP]
 > **Consider using the Content-based Templates if:**
@@ -33,7 +32,9 @@ Safe Spaces are designed to protect their users rather than to promote or share 
 - The purpose of the rules is to protect vulnerable users, not to promote content
 - You have disabled Reddit Discovery and Achievements for your community, because it would be in bad taste
 
-
+**In Summary:**
+Communities on Reddit are usually designed to promote discussions between members or share content such as links, images, videos, etc.
+Safe Spaces are designed to protect their users rather than to promote or share content.
 
 - - -
 
