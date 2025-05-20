@@ -1,7 +1,7 @@
 # Alan-Foster-Reddit-Rules-Template
 A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#sfw-communities-quick-links), SAFE SPACE RULES and [NSFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links) to establish high-quality, comprehensive guidelines for your communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with discussion-based rulesets or content-driven rulesets, updated and maintained to cover as many edge cases as possible. 
 
-> [!IMPORTANT]
+> [!NOTE]
 > ## SFW Content Communities Quick Links
 > |                     | SFW Content Communities |
 > |---------------------|-------------------------|
@@ -11,6 +11,15 @@ A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Red
 
 
 Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links)
+
+> [!IMPORTANT]
+> ## Safe Space Communities Quick Links
+> |                     | Content-Based                                                   |
+> |---------------------|-----------------------------------------------------------------|
+> | **Rules List**      | [Safe Space Rule List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Rule-List)           |
+> | **Removal Reasons** | [Safe Space Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Removal-Reasons) |
+> | **Ban Reasons**     | [Safe Space Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Ban-Reasons)       |
+
 
 ## Should I use SFW Content or Safe Space Rules and Removal Reasons?
 Communities on Reddit are usually designed to promote discussions between members or share content such as links, images, videos, etc.
