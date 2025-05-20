@@ -14,7 +14,7 @@ Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Fost
 
 
 
-## Should I use SFW Content or Safe Space Rules and Removal Reasons?
+## Should I use SFW Content or Safe Space?
 Communities on Reddit are usually designed to promote discussions between members or share content such as links, images, videos, etc.
 
 > [!TIP]
