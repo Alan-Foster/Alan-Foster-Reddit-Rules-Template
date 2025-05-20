@@ -1,16 +1,18 @@
 # Alan-Foster-Reddit-Rules-Template
-A template of [SFW Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#sfw-communities-quick-links) and [NSFW Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links) to establish high-quality, comprehensive guidelines for your communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with discussion-based rulesets or content-driven rulesets, updated and maintained to cover as many edge cases as possible. 
+A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#sfw-communities-quick-links), SAFE SPACE RULES and [NSFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links) to establish high-quality, comprehensive guidelines for your communities. Many communities have rules that fail to encompass all rule violations or are inconsistent across communities. This rule list is designed to be a master template by which the SFW subreddits can standardize how violations are enforced. Designed for communities with discussion-based rulesets or content-driven rulesets, updated and maintained to cover as many edge cases as possible. 
 
 > [!IMPORTANT]
-> ## SFW Communities Quick Links
-> |                     | Content‑Based | Discussion‑Based |
-> | ------------------- | ---------------- | ------------- |
-> | **Rules List**      | [SFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Rules-List)           | [SFW Discussion Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Discussion-Rule-List)            |
-> | **Removal Reasons** | [SFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Removal-Reasons) | [SFW Discussion Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Discussion-Removal-Reasons) |
+> ## SFW Content Communities Quick Links
+> |                     | SFW Content Communities |
+> |---------------------|-------------------------|
+> | **Rules List**      | [SFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Rules-List)           |
+> | **Removal Reasons** | [SFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Removal-Reasons) |
+> | **Ban Reasons**     | [SFW Content Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Ban-Reasons)         |
+
 
 Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links)
 
-## Should I use Content-Based or Discussion-Based Rules and Removal Reasons?
+## Should I use SFW Content or Safe Space Rules and Removal Reasons?
 Communities on Reddit are usually designed to promote discussions between members or share content such as links, images, videos, etc.
 
 > [!TIP]
@@ -22,7 +24,7 @@ Communities on Reddit are usually designed to promote discussions between member
 
 
 > [!TIP]
-> **Consider using the Discussion-based Templates if:**
+> **Consider using the Safe Space Templates if:**
 - Your subreddit is text-based only, with no images or links
 - Reposts are uncommon because the content is usually original
 - Your most common rule violations are name-calling, arguments, and disagreements between users
@@ -35,10 +37,12 @@ The majority of subreddits are content-based while still including text-based di
 
 > [!CAUTION]
 > ## NSFW 18+ Communities Quick Links
-> |                     | Content‑Based | Discussion‑Based |
-> | ------------------- | ---------------- | ------------- |
-> | **Rules List**      | [NSFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Rules-List)           | [NSFW Discussion Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Discussion-Rules-List)           |
-> | **Removal Reasons** | [NSFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Removal-Reasons) | [NSFW Discussion Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Discussion-Removal-Reasons) |
+> |                     | NSFW Content Communities |
+> |---------------------|--------------------------|
+> | **Rules List**      | [NSFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Rules-List)           |
+> | **Removal Reasons** | [NSFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Removal-Reasons) |
+> | **Ban Reasons**     | [NSFW Content Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Ban-Reasons)         |
+
 
 
 ## How do I use this template?
