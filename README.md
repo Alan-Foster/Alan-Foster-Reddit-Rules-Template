@@ -20,7 +20,7 @@ A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Red
 > [!TIP]
 > **Consider using the Content-based Templates if:**
 - Your subreddit's purpose is for sharing content or discussing a topic
-- Members are the general public who share an interest or passion
+- Your members are the general public who share an interest or passion
 - Your rules manage the post feed and keep content relevant
 - You have enabled Reddit Discovery and Achievements for your community
 
@@ -28,7 +28,7 @@ A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Red
 > [!TIP]
 > **Consider using the Safe Space Templates if:**
 - The subreddit's purpose is to offer emotional or mental health support
-- Members have experienced a life-changing event that has left them vulnerable
+- Your members have experienced a life-changing event that has left them vulnerable
 - Your rules protect vulnerable users, not promote content
 - You have disabled Reddit Discovery and Achievements for your community, because it would be in bad taste
 
