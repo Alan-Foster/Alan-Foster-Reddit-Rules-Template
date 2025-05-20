@@ -34,7 +34,7 @@ A template of [SFW Content Rules](https://github.com/Alan-Foster/Alan-Foster-Red
 
 > [!TIP]
 > **In Summary:**
-- Communities on Reddit are usually designed to promote discussions between members or share content such as links, images, videos, etc.
+- Communities on Reddit are usually designed to promote content and discussions.
 - Safe Spaces are designed to protect their users rather than to promote or share content.
 
 - - -
