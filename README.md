@@ -3,7 +3,7 @@ A template of [SFW Community Rules](https://github.com/Alan-Foster/Alan-Foster-R
 
 > [!IMPORTANT]
 > ## SFW Communities Quick Links
-> |                     | Content and Discussion | Safe Spaces | Activity and Event |
+> |                     | Content and Discussion | Safe Spaces | Devvit App / Event / Activity |
 > |---------------------|------------------------|-------------|--------------------|
 > | **Rules List**      | [SFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Rules-List) | [Safe Space Rule List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Rule-List) |
 > | **Removal Reasons** | [SFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Removal-Reasons) | [Safe Space Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Removal-Reasons) |
