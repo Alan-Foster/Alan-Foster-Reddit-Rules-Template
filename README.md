@@ -3,11 +3,11 @@ A template of [SFW Community Rules](https://github.com/Alan-Foster/Alan-Foster-R
 
 > [!IMPORTANT]
 > ## SFW Communities Quick Links
-> |                     | Content and Discussion | Safe Spaces | Devvit App / Event / Activity |
-> |---------------------|------------------------|-------------|--------------------|
-> | **Rules List**      | [SFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Rules-List) | [Safe Space Rule List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Rule-List) |
-> | **Removal Reasons** | [SFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Removal-Reasons) | [Safe Space Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Removal-Reasons) |
-> | **Ban Reasons**     | [SFW Content Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Ban-Reasons) | [Safe Space Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Ban-Reasons) |
+> |                     | Content and Discussion | SFW Safe Spaces | Devvit App / Event / Activity |
+> |---------------------|------------------------|-----------------|-------------------------------|
+> | **Rules List**      | [SFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Rules-List) | [SFW Safe Space Rule List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Rule-List) |
+> | **Removal Reasons** | [SFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Removal-Reasons) | [SFW Safe Space Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Removal-Reasons) |
+> | **Ban Reasons**     | [SFW Content Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/SFW-Content-Ban-Reasons) | [SFW Safe Space Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/Safe-Space-Ban-Reasons) |
 
 > [!CAUTION]
 > Looking for [NSFW Rules Lists and Removal Reasons?](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template?tab=readme-ov-file#nsfw-18-communities-quick-links)
@@ -41,8 +41,8 @@ A template of [SFW Community Rules](https://github.com/Alan-Foster/Alan-Foster-R
 
 > [!CAUTION]
 > ## NSFW 18+ Communities Quick Links
-> |                     | NSFW Content Communities |
-> |---------------------|--------------------------|
+> |                     | NSFW Content Communities | NSFW Safe Space Communities |
+> |---------------------|--------------------------|-----------------------------|
 > | **Rules List**      | [NSFW Content Rules List](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Rules-List)           |
 > | **Removal Reasons** | [NSFW Content Removal Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Removal-Reasons) |
 > | **Ban Reasons**     | [NSFW Content Ban Reasons](https://github.com/Alan-Foster/Alan-Foster-Reddit-Rules-Template/blob/main/NSFW-Content-Ban-Reasons)         |
